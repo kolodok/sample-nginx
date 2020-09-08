@@ -8,6 +8,6 @@ wget -O /code/phpMyAdmin.zip https://raw.githubusercontent.com/kolodok/sample-ng
 
 #unzip /code/app.zip -o -d /code/
 unzip /code/phpMyAdmin.zip -o -d /code/
-mv phpMyAdmin-5.0.2-all-languages.zip phpMyAdmin
+mv /code/phpMyAdmin-5.0.2-all-languages.zip /code/phpMyAdmin
 
 #unzip /code/rainloop.zip -o -d /code
